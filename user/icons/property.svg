@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 512 512" xml:space="preserve">
+<polygon style="fill:#288FD9;" points="490.44,0 256,0 235.085,77.732 490.44,56.817 "/>
+<polygon style="fill:#8BCBF1;" points="21.56,0 21.56,56.817 256,77.732 256,0 "/>
+<polygon style="fill:#0079CE;" points="512,56.817 256,56.817 235.085,491.085 307.222,512 512,512 "/>
+<polygon style="fill:#288FD9;" points="0,56.817 0,512 204.778,512 256,491.085 256,56.817 "/>
+<polygon style="fill:#F39624;" points="307.222,512 307.222,347.947 256,347.947 235.085,440.947 256,512 "/>
+<g>
+	<rect x="204.779" y="347.951" style="fill:#F7C02D;" width="51.221" height="164.049"/>
+	<polygon style="fill:#F7C02D;" points="156.346,110.718 105.123,110.718 84.208,145.771 105.123,180.822 156.346,180.822 	"/>
+	<polygon style="fill:#F7C02D;" points="156.346,229.333 105.123,229.333 84.208,264.384 105.123,299.436 156.346,299.436 	"/>
+</g>
+<g>
+	<polygon style="fill:#F39624;" points="307.222,110.718 256,110.718 235.085,145.771 256,180.822 307.222,180.822 	"/>
+	<polygon style="fill:#F39624;" points="307.222,229.333 256,229.333 235.085,264.384 256,299.436 307.222,299.436 	"/>
+</g>
+<polygon style="fill:#F7C02D;" points="156.346,347.947 105.123,347.947 84.208,382.999 105.123,418.05 156.346,418.05 "/>
+<g>
+	<polygon style="fill:#E9751C;" points="458.099,110.718 406.877,110.718 385.962,145.771 406.877,180.822 458.099,180.822 	"/>
+	<polygon style="fill:#E9751C;" points="458.099,229.333 406.877,229.333 385.962,264.384 406.877,299.436 458.099,299.436 	"/>
+	<polygon style="fill:#E9751C;" points="458.099,347.947 406.877,347.947 385.962,382.999 406.877,418.05 458.099,418.05 	"/>
+</g>
+<g>
+	<rect x="53.901" y="110.717" style="fill:#FBE27B;" width="51.221" height="70.102"/>
+	<rect x="53.901" y="229.334" style="fill:#FBE27B;" width="51.221" height="70.102"/>
+	<rect x="53.901" y="347.951" style="fill:#FBE27B;" width="51.221" height="70.102"/>
+</g>
+<g>
+	<rect x="204.779" y="110.717" style="fill:#F7C02D;" width="51.221" height="70.102"/>
+	<rect x="204.779" y="229.334" style="fill:#F7C02D;" width="51.221" height="70.102"/>
+</g>
+<g>
+	<rect x="355.652" y="110.717" style="fill:#F39624;" width="51.221" height="70.102"/>
+	<rect x="355.652" y="229.334" style="fill:#F39624;" width="51.221" height="70.102"/>
+	<rect x="355.652" y="347.951" style="fill:#F39624;" width="51.221" height="70.102"/>
+</g>
+</svg>

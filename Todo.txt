@@ -1,0 +1,1 @@
+stop search icon from searching if string is empty 

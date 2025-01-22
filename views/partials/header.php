@@ -66,8 +66,8 @@
                         </div>
 
                         <div class="navbar-nav ml-auto py-0">
-                        <a href="../login/login.php" class="nav-item nav-link">Login</a>
-                        <a href="../Registration/Register.php" class="nav-item nav-link">Register</a>
+                        <a href="./login/login.php" class="nav-item nav-link">Login</a>
+                        <a href="./Registration/Register.php" class="nav-item nav-link">Register</a>
                     </div>    
                        
                     </div>
